@@ -1,3 +1,10 @@
 6/8/2025 - DevOps Tutorial
 
+<<<<<<< HEAD
 content change - master branch.
+=======
+content change from feature-x branch
+>>>>>>> feature-x
+
+
+this is the merged content from both master and feature-x branch
